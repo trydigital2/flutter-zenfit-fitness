@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="zenGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B4D3E"/>
+      <stop offset="100%" stop-color="#0E2D22"/>
+    </linearGradient>
+    <linearGradient id="limeGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A6F028"/>
+      <stop offset="100%" stop-color="#76C912"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="44" fill="url(#zenGreen)"/>
+  <path d="M55 60 C55 52, 62 45, 70 45 L130 45 C138 45, 145 52, 145 60 C145 66, 140 72, 133 76 L85 125 L130 125 C138 125, 145 132, 145 140 C145 148, 138 155, 130 155 L70 155 C62 155, 55 148, 55 140 C55 134, 60 128, 67 124 L115 75 L70 75 C62 75, 55 68, 55 60 Z" fill="url(#limeGlow)"/>
+  <circle cx="150" cy="50" r="10" fill="#A6F028"/>
+</svg>

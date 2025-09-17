@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" width="400" height="340">
+  <defs>
+    <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8F5E9"/>
+      <stop offset="100%" stop-color="#C8E6C9"/>
+    </linearGradient>
+    <linearGradient id="accentGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B4D3E"/>
+      <stop offset="100%" stop-color="#0E2D22"/>
+    </linearGradient>
+    <linearGradient id="limeGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A6F028"/>
+      <stop offset="100%" stop-color="#76C912"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="170" r="140" fill="url(#bgGrad1)" opacity="0.6"/>
+  <rect x="70" y="80" width="260" height="180" rx="28" fill="#FFFFFF" filter="drop-shadow(0 12px 24px rgba(27,77,62,0.12))"/>
+  <!-- Calender / Habit Grid -->
+  <rect x="95" y="105" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+  <rect x="150" y="105" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+  <rect x="205" y="105" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+  <rect x="260" y="105" width="40" height="40" rx="10" fill="#E2E8F0"/>
+  
+  <rect x="95" y="160" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+  <rect x="150" y="160" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+  <rect x="205" y="160" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+  <rect x="260" y="160" width="40" height="40" rx="10" fill="url(#limeGrad1)"/>
+
+  <!-- Streak badge -->
+  <rect x="130" y="215" width="140" height="32" rx="16" fill="url(#accentGrad1)"/>
+  <text x="200" y="236" fill="#A6F028" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">7 DAY STREAK 🔥</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B4D3E"/>
+      <stop offset="100%" stop-color="#2D7A62"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="60" fill="url(#avatarBg)"/>
+  <circle cx="60" cy="46" r="22" fill="#E2E8F0"/>
+  <path d="M22 104 C25 80, 42 74, 60 74 C78 74, 95 80, 98 104 Z" fill="#E2E8F0"/>
+  <circle cx="92" cy="92" r="14" fill="#A6F028" stroke="#1B4D3E" stroke-width="3"/>
+  <!-- lightning or checkmark -->
+  <path d="M92 86 L89 92 L93 92 L91 98 L96 91 L92 91 Z" fill="#0E2D22"/>
+</svg>

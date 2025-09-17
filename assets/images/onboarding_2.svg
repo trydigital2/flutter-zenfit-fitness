@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" width="400" height="340">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E0F2FE"/>
+      <stop offset="100%" stop-color="#BAE6FD"/>
+    </linearGradient>
+    <linearGradient id="darkGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B4D3E"/>
+      <stop offset="100%" stop-color="#0E2D22"/>
+    </linearGradient>
+    <linearGradient id="limeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A6F028"/>
+      <stop offset="100%" stop-color="#84E034"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="170" r="140" fill="url(#bgGrad2)" opacity="0.6"/>
+  <rect x="75" y="70" width="250" height="200" rx="28" fill="#FFFFFF" filter="drop-shadow(0 14px 28px rgba(0,0,0,0.08))"/>
+  <!-- Dumbbell illustration -->
+  <rect x="188" y="115" width="24" height="90" rx="8" fill="url(#darkGrad2)"/>
+  <rect x="135" y="145" width="130" height="24" rx="10" fill="#334155"/>
+  <rect x="110" y="130" width="30" height="54" rx="12" fill="url(#limeGrad2)"/>
+  <rect x="260" y="130" width="30" height="54" rx="12" fill="url(#limeGrad2)"/>
+  <rect x="135" y="215" width="130" height="36" rx="14" fill="#F1F5F9"/>
+  <text x="200" y="238" fill="#1E293B" font-size="13" font-weight="bold" font-family="sans-serif" text-anchor="middle">540 kcal Burned</text>
+</svg>
