@@ -199,6 +199,7 @@ class GoalsHabitsScreen extends StatelessWidget {
                           ),
                           child: Icon(
                             IconData(
+                              // ignore: non_const_argument_for_const_parameter
                               habit.iconCodePoint,
                               fontFamily: 'MaterialIcons',
                             ),
