@@ -8,3 +8,5 @@ void main() async {
   await Get.putAsync(() => StorageService().init());
   runApp(const ZenFitApp());
 }
+
+
